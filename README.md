@@ -1,5 +1,3 @@
-# CodeAlpha_Credit_Worthiness
-Predict an individual's creditworthiness using past financial data. Use classification algorithms like Logistic Regression, Decision Trees, or Random Forest.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24&height=200&section=header&text=🏦%20Creditworthiness%20Predictor&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Loan%20Approval%20Prediction%20using%20Random%20Forest%20%7C%20Binary%20Classification&descAlignY=60&descAlign=50" width="100%"/>
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
