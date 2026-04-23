@@ -12,9 +12,7 @@
 
 ---
 
-## 📌 Project Overview
 
-Predicting whether a loan application will be **approved or rejected** based on applicant financial and demographic data. This project applies supervised binary classification — comparing Logistic Regression, Decision Tree, and Random Forest — to build a robust creditworthiness evaluation system that financial institutions can rely on.
 
 > **Best Model:** 🏆 Random Forest Classifier — selected for its ensemble strength, resistance to overfitting, and superior performance across all metrics.
 
