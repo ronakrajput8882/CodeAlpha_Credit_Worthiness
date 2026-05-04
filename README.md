@@ -6,7 +6,7 @@
 
 ## 📌 Project Overview
 
-**Calculator** is a simple, responsive calculator web app built with React.js. It handles all basic arithmetic operations — addition, subtraction, multiplication, and division — with a clean UI and real-time display updates driven by React state.
+**Calculator** is It handles all basic arithmetic operations — addition, subtraction, multiplication, and division — with a clean UI and real-time display updates driven by React state.
 
 > 🎯 A great hands-on project for mastering React component design, `useState` hook, and event-driven UI logic.
 
