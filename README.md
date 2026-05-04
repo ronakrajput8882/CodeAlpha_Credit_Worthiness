@@ -1,10 +1,5 @@
 /badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-UI and real-time display updates driven by React state.
-
-> 🎯 A great hands-on project for mastering React component design, `useState` hook, and event-driven UI logic.
-
----
 
 ## 🔄 App Workflow
 
